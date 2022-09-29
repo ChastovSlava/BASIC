@@ -1,0 +1,3 @@
+﻿  arrays_easy.c
+C:\Users\itmm-2213-a\source\repos\TC-continuation\ArraysAction_Easy\arrays_easy.c(4,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  ArraysAction_Easy.vcxproj -> C:\Users\itmm-2213-a\source\repos\TC-continuation\x64\Debug\ArraysAction_Easy.exe
