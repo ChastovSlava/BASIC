@@ -1,0 +1,4 @@
+﻿  MassPow.c
+C:\Users\123\Desktop\HomeWork3\Number2\MassPow.c(14,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Number2\MassPow.c(17,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Number2.vcxproj -> C:\Users\123\Desktop\HomeWork3\x64\Debug\Number2.exe

@@ -1,0 +1,8 @@
+﻿  Sourcee.c
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(66,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(102,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(109,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(116,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(152,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\wfg\Sourcee.c(159,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  wfg.vcxproj -> C:\Users\123\Desktop\HomeWork3\x64\Debug\wfg.exe

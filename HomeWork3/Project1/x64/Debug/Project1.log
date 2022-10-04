@@ -1,0 +1,8 @@
+﻿  asdfe.c
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(70,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(106,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(113,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(120,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(156,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Project1\asdfe.c(163,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\123\Desktop\HomeWork3\x64\Debug\Project1.exe

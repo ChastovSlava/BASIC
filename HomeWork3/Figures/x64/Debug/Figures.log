@@ -1,0 +1,8 @@
+﻿  Figures.c
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(67,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(103,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(110,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(117,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(153,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork3\Figures\Figures.c(160,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Figures.vcxproj -> C:\Users\123\Desktop\HomeWork3\x64\Debug\Figures.exe
